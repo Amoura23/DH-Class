@@ -1,0 +1,15 @@
+The reading “How Words Lead to Justice” by Lauren F. Klein and Sandeep Soni tracked the use of terms in abolitionist publications across time. The authors used text analysis techniques to determine the frequency of terms, the context in which the terms were used, and how the use or relative meaning of terms changed over time. The reading follows several different publications and analyzes the impact these publications have on each other, with some publications being authorities on abolitionism and others being hubs of collected information from authority sources.
+
+Figure 6:
+
+•	How was the analysis created? What tools were used?
+
+To create Figure 6, the researchers “employed an algorithm known as hubs and authorities (HITS), which was developed as a means of ranking content on the web. The underlying premise is that certain web pages, known as hubs, serve as aggregators of other content, while others, known as authorities, produce the content that hubs then aggregate. We mapped this concept onto our leader-follower pairs and then plotted the hub and authority scores against each other.” This process resulted in a visualization that depicts where publications fit on the scale of authority versus hub. The researchers also used color to indicate publication with black or female editors. Finally, the size of the node correlates to Pagerank. In this way, the authors created a visualization of text analysis that incorporates multiple axes, sizes, and colors to communicate their analysis to the reader.
+
+•	What does this analysis tell us about not only the data, but trends in DH more broadly?
+
+This analysis tells us which publications were authorities based on how often the publication instigated change within the discourse on abolitionism. It also relays which publications acted as hubs by following and perpetuating semantic changes. It allows the reader to see the relative impact each publication had by comparing them to each other. This also demonstrates the influence these works had on each other. The use of color demonstrates the impact specific communities had on semantic changes, specifically women and the black community.
+
+This figure demonstrates some broader trends in digital humanities. It exemplifies the ability to transform words within their context into visualized data. Maintaining the context is key in these situations, and it tells the readers so much more information about semantic changes than could be communicated by word tokenization alone.
+
+One thing I didn’t like about this Figure, was that it chose the colors gray and dark gray to communicate information. It would have been easier to visualize if the colors had been a little starker in contrast. I am not sure what the benefit is of choosing two such similar colors to compare.
